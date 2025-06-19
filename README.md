@@ -12,3 +12,4 @@
 **Topics Covered:**
 - Loops: `for`, `while`, and `do-while`
 - Prime number checking
+- Prime numbers printig till the given number
