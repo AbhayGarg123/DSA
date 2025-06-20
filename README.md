@@ -12,4 +12,11 @@
 **Topics Covered:**
 - Loops: `for`, `while`, and `do-while`
 - Prime number checking
-- Prime numbers printig till the given number
+- Prime numbers printing till the given number
+
+### 📅 Day 3: Fibonacci Series
+
+**🧠 Topic:** Fibonacci Series Generation  
+**📥 Input:** Number of terms to print (provided by the user)  
+**📤 Output:** A sequence of Fibonacci numbers up to the given number of terms
+
