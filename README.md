@@ -20,3 +20,10 @@
 **📥 Input:** Number of terms to print (provided by the user)  
 **📤 Output:** A sequence of Fibonacci numbers up to the given number of terms
 
+### 📅 Day 4: Digit Count & Reverse of a Number
+
+**🧠 Topic:** Number Digit Count and Reversal  
+**📥 Input:** A positive integer (entered by the user)  
+**📤 Output:** 
+- Total number of digits in the number  
+- Reverse of the number
