@@ -27,3 +27,11 @@
 **📤 Output:** 
 - Total number of digits in the number  
 - Reverse of the number
+
+### 📅 Day 5: GCD and LCM of Two Numbers
+
+**🧠 Topic:** Greatest Common Divisor (GCD) & Least Common Multiple (LCM)  
+**📥 Input:** Two positive integers (entered by the user)  
+**📤 Output:** 
+- GCD of the two numbers  
+- LCM of the two numbers
