@@ -35,3 +35,9 @@
 **📤 Output:** 
 - GCD of the two numbers  
 - LCM of the two numbers
+
+### 📅 Day 6: Prime Factorization of a Number
+
+**🧠 Topic:** Prime Factorization  
+**📥 Input:** A positive integer (entered by the user)  
+**📤 Output:** All prime factors of the given number
