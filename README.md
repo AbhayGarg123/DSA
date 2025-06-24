@@ -41,3 +41,11 @@
 **🧠 Topic:** Prime Factorization  
 **📥 Input:** A positive integer (entered by the user)  
 **📤 Output:** All prime factors of the given number
+
+### 📅 Day 7: Right-Angled Triangle Check & Area Calculation
+
+**🧠 Topic:** Triangle Properties – Right-Angled Check & Area  
+**📥 Input:** Three sides of a triangle (entered by the user)  
+**📤 Output:** 
+- Whether the triangle is a **right-angled triangle** or not  
+- The **area** of the triangle
