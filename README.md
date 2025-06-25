@@ -49,3 +49,9 @@
 **📤 Output:** 
 - Whether the triangle is a **right-angled triangle** or not  
 - The **area** of the triangle
+
+### 📅 Day 8: Benjamin Bulb Problem
+
+**🧠 Topic:** Mathematical Patterns – Perfect Squares  
+**📥 Input:** Total number of bulbs (entered by the user)  
+**📤 Output:** List of bulbs that will remain **ON**
