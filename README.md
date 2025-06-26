@@ -55,3 +55,11 @@
 **🧠 Topic:** Mathematical Patterns – Perfect Squares  
 **📥 Input:** Total number of bulbs (entered by the user)  
 **📤 Output:** List of bulbs that will remain **ON**
+
+### 📅 Day 9: Star Patterns – Pattern 1 & Pattern 2
+
+**🧠 Topic:** Star Pattern Printing using Nested Loops  
+**📥 Input:** Number of rows (entered by the user)  
+**📤 Output:** Two different star patterns displayed using loops
+#### ⭐ Pattern 1: Left-Aligned Right-Angled Triangle
+#### ⭐ Pattern 2: Right-Aligned Right-Angled Triangle
