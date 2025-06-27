@@ -63,3 +63,12 @@
 **📤 Output:** Two different star patterns displayed using loops
 #### ⭐ Pattern 1: Left-Aligned Right-Angled Triangle
 #### ⭐ Pattern 2: Right-Aligned Right-Angled Triangle
+
+### 📅 Day 10: Inverted Star Patterns – Pattern 1 & Pattern 2
+
+**🧠 Topic:** Inverted Triangle Star Patterns  
+**📥 Input:** Number of rows (entered by the user)  
+**📤 Output:** Two different inverted triangle patterns made using `*`
+
+#### ⭐ Pattern 1: Right-Aligned Inverted Triangle
+#### ⭐ Pattern 2: Left-Aligned Inverted Triangle
