@@ -69,6 +69,13 @@
 **🧠 Topic:** Inverted Triangle Star Patterns  
 **📥 Input:** Number of rows (entered by the user)  
 **📤 Output:** Two different inverted triangle patterns made using `*`
-
 #### ⭐ Pattern 1: Right-Aligned Inverted Triangle
 #### ⭐ Pattern 2: Left-Aligned Inverted Triangle
+
+### 📅 Day 11: Centered Pyramid Patterns – Pattern 1 & Pattern 2
+
+**🧠 Topic:** Symmetric Pyramid Pattern Printing  
+**📥 Input:** Number of rows (entered by the user)  
+**📤 Output:** Upright and inverted centered pyramid star patterns
+#### ⭐ Pattern 1: Centered Pyramid
+#### ⭐ Pattern 2: Inverted Centered Pyramid
