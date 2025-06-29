@@ -79,3 +79,9 @@
 **📤 Output:** Upright and inverted centered pyramid star patterns
 #### ⭐ Pattern 1: Centered Pyramid
 #### ⭐ Pattern 2: Inverted Centered Pyramid
+
+### 📅 Day 12: Diamond Star Pattern (Symmetric Hourglass)
+
+**🧠 Topic:** Complex Star Pattern – Full Symmetric Diamond  
+**📥 Input:** Number of rows (typically half the height; entered by the user)  
+**📤 Output:** A diamond-shaped star pattern (pyramid + inverted pyramid)
