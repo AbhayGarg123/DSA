@@ -85,3 +85,9 @@
 **🧠 Topic:** Complex Star Pattern – Full Symmetric Diamond  
 **📥 Input:** Number of rows (typically half the height; entered by the user)  
 **📤 Output:** A diamond-shaped star pattern (pyramid + inverted pyramid)
+
+### 📅 Day 13: Butterfly Star Pattern
+
+**🧠 Topic:** Symmetric Pattern – Butterfly Shape  
+**📥 Input:** Number of rows (entered by the user)  
+**📤 Output:** A butterfly-shaped star pattern using `*` and spaces
