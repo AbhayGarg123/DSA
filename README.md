@@ -86,6 +86,12 @@
 **📥 Input:** Number of rows (typically half the height; entered by the user)  
 **📤 Output:** A diamond-shaped star pattern (pyramid + inverted pyramid)
 
+### 📅 Day 13: Butterfly Star Pattern
+
+**🧠 Topic:** Symmetric Pattern – Butterfly Shape  
+**📥 Input:** Number of rows (entered by the user)  
+**📤 Output:** A butterfly-shaped star pattern using `*` and spaces
+
 ### 📅 Day 14: Right-Diagonal Star Pattern
 
 **🧠 Topic:** Diagonal Pattern Printing  
@@ -93,8 +99,3 @@
 **📤 Output:** A right-slanted diagonal line made using `*`
 #### ⭐ Pattern: Right-Diagonal Line
 
-### 📅 Day 13: Butterfly Star Pattern
-
-**🧠 Topic:** Symmetric Pattern – Butterfly Shape  
-**📥 Input:** Number of rows (entered by the user)  
-**📤 Output:** A butterfly-shaped star pattern using `*` and spaces
