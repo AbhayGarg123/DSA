@@ -99,3 +99,9 @@
 **📤 Output:** A right-slanted diagonal line made using `*`
 #### ⭐ Pattern: Right-Diagonal Line
 
+### 📅 Day 15: Left-Diagonal Star Pattern
+
+**🧠 Topic:** Reverse Diagonal Pattern Printing  
+**📥 Input:** Number of rows (entered by the user)  
+**📤 Output:** A left-slanted diagonal line made using `*`
+#### ⭐ Pattern: Left-Diagonal Line
