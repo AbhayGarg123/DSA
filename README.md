@@ -105,3 +105,9 @@
 **📥 Input:** Number of rows (entered by the user)  
 **📤 Output:** A left-slanted diagonal line made using `*`
 #### ⭐ Pattern: Left-Diagonal Line
+
+### 📅 Day 16: Factorial of a Number using Function
+
+**🧠 Topic:** Functions & Recursion/Iteration  
+**📥 Input:** A positive integer (entered by the user)  
+**📤 Output:** Factorial of the given number
