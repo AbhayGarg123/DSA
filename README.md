@@ -111,3 +111,11 @@
 **🧠 Topic:** Functions & Recursion/Iteration  
 **📥 Input:** A positive integer (entered by the user)  
 **📤 Output:** Factorial of the given number
+
+### 📅 Day 17: Frequency of a Digit in a Number using Function
+
+**🧠 Topic:** Digit Frequency Analysis with Functions  
+**📥 Input:** 
+- A number (e.g., 7555325)  
+- A digit whose frequency needs to be found (e.g., 5)  
+**📤 Output:** Count of how many times the digit appears in the number
