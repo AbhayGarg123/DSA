@@ -118,4 +118,13 @@
 **📥 Input:** 
 - A number (e.g., 7555325)  
 - A digit whose frequency needs to be found (e.g., 5)  
-**📤 Output:** Count of how many times the digit appears in the number
+**📤 Output:** Count how many times the digit appears in the number
+
+### 📅 Day 18: Convert Decimal to Any Base (2 to 36)
+
+**🧠 Topic:** Number System Conversion  
+**📥 Input:** 
+- A decimal number (e.g., 255)  
+- A target base (between 2 and 36)  
+
+**📤 Output:** Equivalent number in the target base
