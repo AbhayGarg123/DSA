@@ -128,3 +128,9 @@
 - A target base (between 2 and 36)  
 
 **📤 Output:** Equivalent number in the target base
+
+### 📅 Day 19: Span of an Array
+
+**🧠 Topic:** Array Analysis – Finding Span  
+**📥 Input:** An array of integers (entered by the user or predefined)  
+**📤 Output:** The span of the array
