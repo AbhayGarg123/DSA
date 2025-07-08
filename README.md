@@ -134,3 +134,11 @@
 **🧠 Topic:** Array Analysis – Finding Span  
 **📥 Input:** An array of integers (entered by the user or predefined)  
 **📤 Output:** The span of the array
+
+### 📅 Day 20: Search an Element in an Array
+
+**🧠 Topic:** Array Traversal & Linear Search  
+**📥 Input:** 
+- An array of integers  
+- A target element to search for  
+**📤 Output:** Index of the element if found; otherwise, a message saying "Not Found"
