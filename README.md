@@ -142,3 +142,10 @@
 - An array of integers  
 - A target element to search for  
 **📤 Output:** Index of the element if found; otherwise, a message saying "Not Found"
+
+### 📅 Day 21: Sum of Two Arrays (Digit-wise Addition)
+
+**🧠 Topic:** Array Manipulation – Adding Two Numbers Represented as Arrays  
+**📥 Input:** 
+- Two integer arrays, each representing a number (e.g., [9, 8, 7] → 987)  
+**📤 Output:** Resultant array representing the sum of the two numbers
