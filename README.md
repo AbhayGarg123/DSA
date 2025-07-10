@@ -149,3 +149,12 @@
 **📥 Input:** 
 - Two integer arrays, each representing a number (e.g., [9, 8, 7] → 987)  
 **📤 Output:** Resultant array representing the sum of the two numbers
+
+### 📅 Day 22: Difference of Two Arrays (Supports Negative Result)
+
+**🧠 Topic:** Subtracting Numbers Represented as Arrays  
+**📥 Input:** 
+- Two arrays of digits: `array1` and `array2`  
+  (Each represents a number: e.g., [1, 2, 3] → 123)  
+**📤 Output:** A new array representing the difference: `array1 - array2`  
+- Output includes a **negative sign** if `array1 < array2`
