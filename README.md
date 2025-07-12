@@ -158,3 +158,9 @@
   (Each represents a number: e.g., [1, 2, 3] → 123)  
 **📤 Output:** A new array representing the difference: `array1 - array2`  
 - Output includes a **negative sign** if `array1 < array2`
+
+### 📅 Day 23: Duplicate Brackets Problem
+
+**🧠 Topic:** Stack – Expression Validation  
+**📥 Input:** A string expression containing brackets (e.g., `(a + (b) + ((c + d)))`)  
+**📤 Output:** `true` if duplicate brackets exist, otherwise `false`
