@@ -164,3 +164,9 @@
 **🧠 Topic:** Stack – Expression Validation  
 **📥 Input:** A string expression containing brackets (e.g., `(a + (b) + ((c + d)))`)  
 **📤 Output:** `true` if duplicate brackets exist, otherwise `false`
+
+### 📅 Day 24: Balanced Brackets Problem
+
+**🧠 Topic:** Stack – Expression Validation  
+**📥 Input:** A string expression containing brackets (e.g., `(a + [b] + {c})`)  
+**📤 Output:** `true` if brackets are balanced and properly nested, otherwise `false`
