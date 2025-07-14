@@ -170,3 +170,10 @@
 **🧠 Topic:** Stack – Expression Validation  
 **📥 Input:** A string expression containing brackets (e.g., `(a + [b] + {c})`)  
 **📤 Output:** `true` if brackets are balanced and properly nested, otherwise `false`
+
+### 📅 Day 25: Next Greater Element Problem
+
+**🧠 Topic:** Stack – Array Processing  
+**📥 Input:** An array of integers  
+**📤 Output:** For each element, print the **next greater element** to its right  
+(If no such element exists, output `-1`)
