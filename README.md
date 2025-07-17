@@ -177,3 +177,9 @@
 **📥 Input:** An array of integers  
 **📤 Output:** For each element, print the **next greater element** to its right  
 (If no such element exists, output `-1`)
+
+### 📅 Day 26: Find the Second Greatest Number in an Array
+
+**🧠 Topic:** Array Traversal & Conditional Logic  
+**📥 Input:** An array of integers (unsorted, user input)  
+**📤 Output:** The second greatest (second largest) number in the array
