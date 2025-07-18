@@ -183,3 +183,9 @@
 **🧠 Topic:** Array Traversal & Conditional Logic  
 **📥 Input:** An array of integers (unsorted, user input)  
 **📤 Output:** The second greatest (second largest) number in the array
+
+### 📅 Day 27: Stock Span Problem
+
+**🧠 Topic:** Stack – Array Processing  
+**📥 Input:** An array representing stock prices over `n` days  
+**📤 Output:** An array where each element represents the stock span on that day
