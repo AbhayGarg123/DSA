@@ -184,6 +184,13 @@
 **📥 Input:** An array of integers (unsorted, user input)  
 **📤 Output:** The second greatest (second largest) number in the array
 
+### 📅 Day 28: Largest Area in Histogram
+
+**🧠 Topic:** Stack – Monotonic Stack Pattern  
+**📥 Input:** An array representing the heights of bars in a histogram  
+**📤 Output:** The maximum area of the rectangle that can be formed in the histogram
+
+
 ### 📅 Day 27: Stock Span Problem
 
 **🧠 Topic:** Stack – Array Processing  
