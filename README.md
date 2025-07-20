@@ -190,9 +190,14 @@
 **📥 Input:** An array representing the heights of bars in a histogram  
 **📤 Output:** The maximum area of the rectangle that can be formed in the histogram
 
-
 ### 📅 Day 27: Stock Span Problem
 
 **🧠 Topic:** Stack – Array Processing  
 **📥 Input:** An array representing stock prices over `n` days  
 **📤 Output:** An array where each element represents the stock span on that day
+
+### 📅 Day 29: Sliding Window Maximum
+
+**🧠 Topic:** Deque (Double-Ended Queue) / Sliding Window Technique  
+**📥 Input:** An array of integers and a window size `k`  
+**📤 Output:** An array of maximum values for each sliding window of size `k`
