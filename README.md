@@ -201,3 +201,9 @@
 **🧠 Topic:** Deque (Double-Ended Queue) / Sliding Window Technique  
 **📥 Input:** An array of integers and a window size `k`  
 **📤 Output:** An array of maximum values for each sliding window of size `k`
+
+### 📅 Day 30: Infix Expression Evaluation
+
+**🧠 Topic:** Stack | Expression Parsing  
+**📥 Input:** A string containing a valid infix expression (e.g., `"2 + 3 * (4 - 1)"`)  
+**📤 Output:** The evaluated integer result of the expression
