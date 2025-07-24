@@ -207,3 +207,9 @@
 **🧠 Topic:** Stack | Expression Parsing  
 **📥 Input:** A string containing a valid infix expression (e.g., `"2 + 3 * (4 - 1)"`)  
 **📤 Output:** The evaluated integer result of the expression
+
+### 📅 Day 31: Postfix Expression Evaluation
+
+**🧠 Topic:** Stack | Expression Evaluation  
+**📥 Input:** A postfix expression string (e.g., `"231*+9-"`)  
+**📤 Output:** Evaluated integer result
